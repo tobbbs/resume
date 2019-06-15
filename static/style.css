@@ -1,0 +1,44 @@
+.logo {
+	margin-bottom: 200px;
+
+}
+
+#title {
+	font-size: 30px;
+	margin-right:200px;
+	font-weight: 900;
+}
+
+#project-title{
+	font-size: 15px;
+	font-weight: 900;
+	padding: 0px;
+
+}
+.six_columns {
+	width: 65%;
+}
+
+.biography-blurb {
+	font-size: 14px;
+}
+p{
+	font-weight:200;
+	font-size: 17px;
+	letter-spacing: 1px;
+}
+body {
+	margin: 50px;
+	background-color: #f4e3e1;
+	font-family: 'Nunito', sans-serif;
+}
+
+hr {
+	margin-top: 4rem;
+    margin-bottom: 6rem;
+    border-width: 0;
+    border-top: 2px solid #000;
+    width: 40px;
+    text-align: left;
+    margin-left: 0;
+}
